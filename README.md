@@ -20,7 +20,7 @@ I am a **Junior Backend Developer (Golang)** currently working at **Money Forwar
 
 - 📫 How to reach me:
   - 🫠📘 Facebook: <a href="https://www.facebook.com/Zrefalogia/">Phong Vương Quốc</a>
-  - 🔗 LinkedIn: <a href="https://www.linkedin.com/in/quoc-phong-vuong/">Quoc-Phong (Peter) Vuong</a>
+  - 🔗 LinkedIn: <a href="https://www.linkedin.com/in/quoc-phong-vuong/">Quoc-Phong (Phil) Vuong</a>
   - ✉️ Email: contact.quocphongvuong@gmail.com
 
 - 😄 Pronouns: he/him  
