@@ -1,22 +1,22 @@
 ## Hi there 👋
 
 My name is **Phong (Quoc-Phong Vuong)**.  
-I am a **Junior Backend Developer (Golang)** currently working at **Money Forward Vietnam**, and a **Computer Science graduate** from the **University of Science, VNU-HCM**.
+I am a **Software Developer** currently working at **PostCo**, and a **Computer Science graduate** from the **University of Science, VNU-HCM**.
 
 - 🔭 I’m currently:
-  - Working as a Backend Developer on cloud-native systems
-  - Optimizing performance and reliability for backend services using Golang
+  - Building and maintaining features on **PostCo’s** platform (Ruby on Rails API, background jobs, and integrations)
+  - Working across **Rails**, **React**, **TypeScript**, and **Remix** in a monorepo-style setup (Vite, Sidekiq, RSpec)
 
 - 🌱 I’m currently learning:
-  - Advanced backend system design and distributed systems
-  - Cloud & DevOps practices (AWS, CI/CD, ArgoCD)
+  - Deeper **Rails** patterns, service boundaries, and reliable async processing
+  - **Frontend** ergonomics with **React** and **Remix**
+  - **Cloud & DevOps** practices (CI/CD, observability, infrastructure adjacent to shipping)
   - Leveraging **agentic AI tools** (Cursor, Claude) to improve development workflows
 
 - 💻 Technical interests:
-  - Backend Development (Golang, gRPC, REST APIs)
-  - Cloud & DevOps (AWS, CI/CD, ArgoCD)
-  - Databases (MySQL, PostgreSQL, DynamoDB)
-  - Game & Mobile Development (Unity, Godot, Flutter) — as side projects
+  - **Backend**: Ruby on Rails, REST APIs, Sidekiq, PostgreSQL
+  - **Frontend**: React, Remix, TypeScript, Vite
+  - **Edge & integrations**: Cloudflare Workers, Shopify-related extensions and APIs
 
 - 📫 How to reach me:
   - 🫠📘 Facebook: <a href="https://www.facebook.com/Zrefalogia/">Phong Vương Quốc</a>
