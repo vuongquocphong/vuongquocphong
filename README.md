@@ -23,7 +23,6 @@ I am a **Software Developer** currently working at **PostCo**, and a **Computer 
   - 🔗 LinkedIn: <a href="https://www.linkedin.com/in/quoc-phong-vuong/">Quoc-Phong (Phil) Vuong</a>
   - ✉️ Email: contact.quocphongvuong@gmail.com
 
-- 😄 Pronouns: he/him  
 - ⚡ Fun fact: I enjoy playing games when I’m not debugging backend services 😄
 
 <a href="https://app.daily.dev/zrefalogia">
