@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is **Phong (Quoc-Phong Vuong)**.  
-I am a **Software Developer** currently working at **PostCo**, and a **Computer Science graduate** from the **University of Science, VNU-HCM**.
+I am a **Product Engineer** currently working at **PostCo**, and a **Computer Science graduate** from the **University of Science, VNU-HCM**.
 
 - 🔭 I’m currently:
   - Building and maintaining features on **PostCo’s** platform (Ruby on Rails API, background jobs, and integrations)
